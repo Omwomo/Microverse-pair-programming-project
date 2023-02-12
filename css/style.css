@@ -62,3 +62,8 @@ body{
 .pl{
     padding-left:20%;
 }
+
+a:link{
+    text-decoration: none;
+    color:rgb(81, 81, 81);
+}
