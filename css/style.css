@@ -76,3 +76,15 @@ a:link{
     text-decoration: none;
     color:rgb(81, 81, 81);
 }
+
+.card-container{
+    margin:30px 20%;
+    display:flex;
+    justify-content: space-around;
+}
+
+.card{
+    border:1px solid rgb(59, 58, 58);
+    min-width:250px;
+    padding-bottom:20px;
+}
