@@ -14,6 +14,15 @@ ul{
     justify-content: space-around;
 }
 
+header{
+    position:fixed;
+    background-color: #eee;
+    width:100%;
+    top: 0;
+    align-items:center;
+    min-height:75px;
+}
+
 .position-end{
     justify-content: flex-end;
 }
